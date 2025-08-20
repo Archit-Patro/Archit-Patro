@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archit-Patro&theme=dark&show_icons=true&hide=stars&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Archit-Patro&theme=dark&layout=compact&exclude_repo=omori-media-files">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <!--
 **Archit-Patro/Archit-Patro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Archit-Patro&theme=gotham&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Archit-Patro&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)

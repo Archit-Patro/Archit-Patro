@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Archit-Patro&theme=dark&show_icons=true&hide=stars&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Archit-Patro&theme=dark&layout=compact&exclude_repo=omori-media-files">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Archit-Patro/Archit-Patro/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <!--
 **Archit-Patro/Archit-Patro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
